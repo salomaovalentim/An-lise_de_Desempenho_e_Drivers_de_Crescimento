@@ -14,7 +14,7 @@ A análise foi desenvolvida com foco em **tomada de decisão orientada a dados**
 
 ---
 
-## 📊 Base de Dados
+##  Base de Dados
 
 * **2016:** dados disponíveis apenas para setembro e outubro
 * **2017:** ano completo
